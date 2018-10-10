@@ -24,7 +24,7 @@ Navigate to the root directory of this project.  Then run
 
     ./run.sh
 
- to execute the application.  This script may be passed any arguments that were specified in the requirements file.
+ to execute the application.  This script may be passed any arguments that are specified in entry.py file.
 
 
  Note
